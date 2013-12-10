@@ -1,4 +1,4 @@
-friendcode.github.io
+About FriendCode
 ====================
 
-About FriendCode
+This is the code for the FriendCode about webpage: [friendco.de](http://friendco.de).
