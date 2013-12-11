@@ -36,6 +36,11 @@ header .big-link:hover {
     background: #fff;
 }
 
+.codebox-logo {
+    float: left;
+    margin: 25px 15px;
+}
+
 /* Sections */
 section {
     margin: 50px auto;
@@ -59,7 +64,7 @@ section p {
 
 /* Values */
 .values {
-    margin-top: 30px;
+    margin-top: 40px;
     text-align: center;
 }
 .values .value {
